@@ -1,0 +1,4 @@
+[2024-03-12T15:13:44.126423+00:00] Nuazsa\Logging\LoggerTest.INFO: my logger is ready {"status":"processing"} {"dummy":"Hello Dummy"}
+[2024-03-12T15:14:25.600714+00:00] Nuazsa\Logging\LoggerTest.INFO: my logger is ready {"status":"processing"} {"dummy":"Hello Dummy"}
+[2024-03-12T15:14:25.720378+00:00] my_logger.INFO: my logger is ready {"ststus":"processing"} []
+[2024-03-12T15:14:25.848108+00:00] security.INFO: my scurity is ready [] {"login":true}
